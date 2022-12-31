@@ -118,7 +118,7 @@ A kao takav, ima svoju vrednost, cenu i njime se može trgovati ili od njega zar
 	<div id="footer">
 		ITAcademy-Microsoft developer
 		<br>
-		mbbozovi@gmail.com
+		mbbozovic@gmail.com
 		<br>
 		+38267270604
 		
