@@ -1,4 +1,4 @@
-# CryptoGorac-html-
+# CryptoSkolac-html-
 informativni sajt radjen za potrebe skole
 <!DOCTYPE html>
 <html>
